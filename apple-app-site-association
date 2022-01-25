@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "4U7A9M62KQ.cn.17PaiPai.PP",
-                "paths": [ "/iOS-Universal-Links/*"]
+                "paths": [ "*"]
             }
         ]
     }
